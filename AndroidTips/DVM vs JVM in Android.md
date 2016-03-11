@@ -1,11 +1,12 @@
-title: why android uses dvm why not jvm 
-tip-number: 01
-tip-username: Jayamurugan
-tip-username-profile: https://github.com/Jaipalani
-tip-description: why android uses dvm why not jvm.
+title | tip-number | tips-username | Tip-user-profile | Tip-Description
+-------|---------|--------|-------|-------- 
 
-#DVM is Register based which is designed to run on low memory, uses its own byte code and runs .Dex file \
+why android uses dvm why not jvm | 01 | Jayamurugan | https://github.com/Jaipalani | why android uses dvm why not jvm.
 
-#JVM is Stack based which uses java byte code and runs .class file having JIT.\
+##DVM 
+### DVM is Register based which is designed to run on low memory, uses its own byte code and runs .Dex file
+
+##JVM
+###JVM is Stack based which uses java byte code and runs .class file having JIT.
 
 I hope the above tip will be useful.
