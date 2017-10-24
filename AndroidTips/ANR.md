@@ -33,3 +33,5 @@ If your app stops responding, ANR error dialog will appear wich is shown above. 
 To help you troubleshoot these issues, you can use your Developer Console ANR data to help you find the type of issue, location information, and how often the errors have occurred.
 
 Your ANR statistics include all instances that are reported by users.
+
+## end
